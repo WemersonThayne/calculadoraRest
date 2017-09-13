@@ -1,0 +1,4 @@
+br\edu\ifpb\rest\HelloWorld.class
+br\edu\ifpb\service\CalculadoraService.class
+br\edu\ifpb\model\Calculadora.class
+br\edu\ifpb\model\Operacao.class
